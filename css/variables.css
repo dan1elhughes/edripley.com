@@ -1,0 +1,11 @@
+:root {
+  --mid-width: 720px;
+  --full-width: 1080px;
+
+  /* Font stacks */
+  --font-heading: "Open Sans", sans-serif;
+  --font-body: "Open Sans", sans-serif;
+  --theme: #ddd;
+
+  --duration: 0.33s;
+}

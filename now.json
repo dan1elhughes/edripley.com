@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "name": "edripley.com",
+  "alias": "edripley.com",
+  "github": {
+    "silent": true
+  },
+  "regions": ["lhr"],
+  "routes": [
+    {
+      "src": "/healthz",
+      "status": 200
+    }
+  ]
+}

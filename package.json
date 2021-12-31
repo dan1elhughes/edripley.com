@@ -1,0 +1,28 @@
+{
+  "name": "edripley.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "hugo server --gc -DEF --port 3000",
+    "prestart": "npm run clean && open-cli http://localhost:3000",
+    "clean": "rimraf public",
+    "install:hugo": "curl -L -O https://github.com/gohugoio/hugo/releases/download/v0.85.0/hugo_0.85.0_Linux-64bit.tar.gz && tar -xzf hugo_0.85.0_Linux-64bit.tar.gz",
+    "build": "npm run install:hugo && ./hugo --minify -b \"https://$NOW_URL\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dan1elhughes/edripley.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dan1elhughes/edripley.com/issues"
+  },
+  "homepage": "https://github.com/dan1elhughes/edripley.com#readme",
+  "devDependencies": {
+    "open-cli": "^7.0.1",
+    "rimraf": "^3.0.2"
+  }
+}

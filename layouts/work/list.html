@@ -1,0 +1,15 @@
+{{ define "title" }}{{ .Title }} &ndash; {{ .Site.Title }}{{ end }} {{ define
+"main" }}
+<ul class="grid">
+  {{ range .Pages }} {{ $featured := .Params.image}}
+  <li>
+    <div class="Image">
+      {{ range .Resources.ByType "image" }} {{ if eq .Name $featured }}
+      <img src="{{ .RelPermalink }}" />
+      {{ end }} {{ end }}
+    </div>
+    <h2>{{ .Title }}</h2>
+  </li>
+  {{ end }}
+</ul>
+{{ end }}

@@ -1,0 +1,11 @@
+{{ define "title" }}{{ .Title }} &ndash; {{ .Site.Title }}{{ end }} {{ define
+"main" }}
+<div class="full-width">
+  <div class="flex-container">
+    <div>{{ .Content }}</div>
+    <div>
+      <img src="/img/about.jpg" class="about" />
+    </div>
+  </div>
+</div>
+{{ end }}
