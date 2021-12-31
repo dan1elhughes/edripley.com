@@ -7,15 +7,14 @@ sectionPagesMenu = "main"
 # googleAnalytics = "UA-142187310-1" TODO
 
 [params]
-contactEmail = "TODO@TODO.com"
 subtitle = "Producer | Mixer | Composer"
-fontConfig = "Open Sans" # TODO
+fontConfig = "Open Sans"
 dateformat = "Jan 2, 2006"
 
 ## Uncomment to enable the top banner.
 # [params.banner]
-# text = "Shop on Etsy"
-# link = "https://www.etsy.com/uk/shop/VictoriaIllustration"
+# text = "Click this banner, woo!"
+# link = "https://google.com"
 
 [params.unpkg]
 css = [
