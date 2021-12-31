@@ -1,7 +1,6 @@
 baseURL = "https://edripley.com"
 languageCode = "en-gb"
-title = "Ed Ripley | TODO"
-subtitle = "TODO"
+title = "Ed Ripley"
 assetdir = "."
 pluralizelisttitles = false
 sectionPagesMenu = "main"
@@ -9,6 +8,7 @@ sectionPagesMenu = "main"
 
 [params]
 contactEmail = "TODO@TODO.com"
+subtitle = "Producer | Mixer | Composer"
 fontConfig = "Open Sans" # TODO
 dateformat = "Jan 2, 2006"
 

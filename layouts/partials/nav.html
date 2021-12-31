@@ -1,6 +1,9 @@
 <nav>
   <div>
-    <a href="/work"><h1>Ed Ripley</h1></a>
+    <a href="/work">
+      <h1>{{ $.Site.Title }}</h1>
+      <p>{{ $.Site.Params.subtitle }}</p>
+    </a>
   </div>
   {{ if not .Params.hidenav }}
   <div class="pages">
