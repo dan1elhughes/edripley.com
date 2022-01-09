@@ -12,6 +12,8 @@ h1,
 h2,
 h3 {
   font-family: var(--font-heading);
+  font-weight: normal;
+  letter-spacing: 2px;
 }
 
 .small {
@@ -142,6 +144,8 @@ ul.grid li {
 ul.grid img {
   display: block;
   width: 100%;
+  box-shadow: 0 28px 16px -26px rgba(0, 0, 0, 0.5);
+  border-radius: 5px;
 }
 
 ul.grid h3 {
