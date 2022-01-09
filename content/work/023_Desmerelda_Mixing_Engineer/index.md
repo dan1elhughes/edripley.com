@@ -1,4 +1,4 @@
 ---
-label: "Desmerelda - Tango With The Hypnotist"
+label: "Tango With The Hypnotist"
 image: Desmerelda_Mixing_Engineer.jpeg
 ---

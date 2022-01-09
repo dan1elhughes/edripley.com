@@ -1,4 +1,4 @@
 ---
-label: "Goat Girl - Country Sleaze"
+label: "Country Sleaze"
 image: Goat_Girl_Recording_Engineer.jpeg
 ---
