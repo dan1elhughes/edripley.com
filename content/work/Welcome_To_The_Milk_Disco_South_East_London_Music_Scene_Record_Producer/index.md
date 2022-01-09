@@ -1,5 +1,5 @@
 ---
-title: "Milk Disco"
+title: "Milk Disco - Welcome To The Milk Disco"
 date: 2022-01-00
 image: Welcome_To_The_Milk_Disco_South_East_London_Music_Scene_Record_Producer.jpg
 ---

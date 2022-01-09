@@ -3,10 +3,4 @@ title: "Showreel"
 type: "showreel"
 ---
 
-<iframe
-	src="https://open.spotify.com/playlist/4vWuQMea7lFMBGQJoOwS7T?si=c881729311534183"
-	width="100%"
-	height="380"
-	frameborder="0"
-	allowtransparency="true"
-	allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/playlist/4vWuQMea7lFMBGQJoOwS7T?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
