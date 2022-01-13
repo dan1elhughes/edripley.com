@@ -1,5 +1,5 @@
 ---
-title: "Ed Ripley"
+title: "About"
 type: "about"
 ---
 
