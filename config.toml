@@ -14,7 +14,7 @@ dateformat = "Jan 2, 2006"
 # Uncomment to enable the top banner.
 [params.banner]
 text = "Contact"
-link = "mailto:edripley@edripley.com"
+link = "mailto:ed@edripley.com"
 
 [params.unpkg]
 css = [
