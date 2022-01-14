@@ -11,10 +11,10 @@ subtitle = "Producer | Mixer | Composer"
 fontConfig = "Open Sans"
 dateformat = "Jan 2, 2006"
 
-## Uncomment to enable the top banner.
-# [params.banner]
-# text = "Click this banner, woo!"
-# link = "https://google.com"
+# Uncomment to enable the top banner.
+[params.banner]
+text = "Contact"
+link = "mailto:ed@edripley.com"
 
 [params.unpkg]
 css = [
